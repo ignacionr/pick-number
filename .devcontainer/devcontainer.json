@@ -1,0 +1,4 @@
+{
+    "name": "C++ Development Environment",
+    "image": "mcr.microsoft.com/vscode/devcontainers/cpp:ubuntu-24.04"
+}
