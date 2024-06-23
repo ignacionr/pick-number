@@ -1,5 +1,7 @@
 # Pick-Number
 
+[![Explanatory Video](https://img.youtube.com/vi/B5pNvkhr4AE/0.jpg)](https://www.youtube.com/watch?v=B5pNvkhr4AE)
+
 Welcome to the Pick-Number repository! This project is designed to help you generate and pick random numbers with ease. Below you'll find all the information you need to get started with this repository.
 
 ## Table of Contents
@@ -42,12 +44,6 @@ g++ -o pick-number main.cpp
 ```
 
 Customize the number range and other settings within the `main.cpp` file.
-
-## Explanatory Video
-
-For a detailed explanation and a step-by-step guide on how to use Pick-Number, please watch the following video:
-
-[![Explanatory Video](https://img.youtube.com/vi/B5pNvkhr4AE/0.jpg)](https://www.youtube.com/watch?v=B5pNvkhr4AE)
 
 ## Contributing
 
